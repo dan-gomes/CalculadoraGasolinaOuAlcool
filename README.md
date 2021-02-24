@@ -1,4 +1,4 @@
-# Qual o melhor para seu carro, alcool ou gasolina:grey_question:
+# Qual o melhor para seu carro, álcool ou gasolina:grey_question:
 <br/>:smiley: Esse pequeno projeto busca responder esta pergunta. 
 <br/>:mega: Algumas informações: 
 * O projeto foi desenvolvido na IDE AndroidStudio :grin:.
